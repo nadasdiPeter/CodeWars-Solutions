@@ -1,0 +1,14 @@
+D:\casdev\ffm-github\own-prj\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\bin\Debug\CodeWars_CSharp_Solutions.exe.config
+D:\casdev\ffm-github\own-prj\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\bin\Debug\CodeWars_CSharp_Solutions.exe
+D:\casdev\ffm-github\own-prj\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\bin\Debug\CodeWars_CSharp_Solutions.pdb
+D:\casdev\ffm-github\own-prj\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.csprojAssemblyReference.cache
+D:\casdev\ffm-github\own-prj\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.csproj.CoreCompileInputs.cache
+D:\casdev\ffm-github\own-prj\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.exe
+D:\casdev\ffm-github\own-prj\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.pdb
+D:\Dev\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\bin\Debug\CodeWars_CSharp_Solutions.exe.config
+D:\Dev\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\bin\Debug\CodeWars_CSharp_Solutions.exe
+D:\Dev\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\bin\Debug\CodeWars_CSharp_Solutions.pdb
+D:\Dev\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.csproj.AssemblyReference.cache
+D:\Dev\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.csproj.CoreCompileInputs.cache
+D:\Dev\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.exe
+D:\Dev\CodeWars_Solutions\CodeWars_CSharp_Solutions\CodeWars_CSharp_Solutions\obj\Debug\CodeWars_CSharp_Solutions.pdb
